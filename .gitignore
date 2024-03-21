@@ -1,0 +1,8 @@
+secretes.txt
+.DS_Store
+
+# *.txt
+
+# *.log
+
+# .DS_Store - this file is store attributes of custom folder in MacOS
