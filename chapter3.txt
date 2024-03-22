@@ -1,7 +1,0 @@
-It is chapter 3 text page 
-
-Here i wrote some of git commands to understand more about github and git
-
-git restore --staged .
-
-git restore --staged new.py
