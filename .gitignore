@@ -1,8 +1,33 @@
-secretes.txt
-.DS_Store
-
 # *.txt
 
 # *.log
 
 # .DS_Store - this file is store attributes of custom folder in MacOS
+
+# dependencies
+/node_modules
+
+# build output
+/build
+/dist
+
+# logs
+/logs
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# environment variables
+.env
+
+# IDE files
+.vscode
+.idea
+
+# Optional: Uncomment the following lines if you use npm to manage packages
+# npm debugging logs
+npm-debug.log*
+
+# yarn lockfile
+yarn.lock
